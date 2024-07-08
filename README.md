@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on  innovative and challenging Python projects for my betterment...
 - 📫 How to reach me ...Email :-mistryrudra@yahoo.com
 - 😄 Pronouns: Rudra Mistry
+- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - Developed Packages :-
 - 1 . STRING UTILS https://pub.dev/packages/string_utils_dart
