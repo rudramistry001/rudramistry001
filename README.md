@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudramistry001&show_icons=true&locale=en" alt="rudramistry001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudramistry001&" alt="rudramistry001" /></p>
+<p> https://streak-stats.demolab.com/? rudramistry001)](https://git.io/streak-stats </p>
