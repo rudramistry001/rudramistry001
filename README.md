@@ -26,5 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudramistry001&show_icons=true&locale=en&layout=compact" alt="rudramistry001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudramistry001&show_icons=true&locale=en" alt="rudramistry001" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=rudramistry001)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rudramistry001" alt="GitHub Streak" /></a>
